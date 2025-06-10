@@ -18,11 +18,7 @@ Explore the Titanic dataset to uncover trends, patterns, and relationships using
 ## 📁 Files
 - `train.csv` - Titanic dataset
 - `titanic_eda.ipynb` - Jupyter Notebook
-- `titanic_eda.pdf` - Exported PDF report
 - `README.md` - This file
-
-## 📷 Preview
-Include screenshots of plots if required.
 
 ## 🚀 How to Run
 1. Clone the repo
